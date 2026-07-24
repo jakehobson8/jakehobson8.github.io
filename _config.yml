@@ -13,11 +13,12 @@ title: Jake Hobson's Portfolio # This is what shows up in the tab of the browser
 
 # Hero Section
 name: Jake Hobson
-headline: headline message
+headline: Robotics Engineer passionate about autonomous systems, embedded software, and real-world engineering challenges.
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm a Robotics Engineering graduate who enjoys building intelligent systems that bridge hardware and software. 
+  My experience spans embedded firmware, control systems, and autonomous robots, with projects 
+  ranging from microcontroller-based systems to autonomous navigation. I'm excited by opportunities to solve challenging 
+  engineering problems and contribute to technologies that operate in the real world.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -25,7 +26,7 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url:  /assets/resume/resume.pdf
+resume-url:  ./assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
