@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Surflex
-description: Designed a surfboard testing system that quantifies the flexability in both longitudinal and torsional directions. This helps shapers fine tune their boards, and provided the consumers with more information when picking out a new board. 
+description: Surflex is a surfboard testing system that quantifies the flexability in both longitudinal and torsional directions. This helps shapers fine tune their boards, and provided the consumers with more information when picking out a new board. 
 skills: 
   - GUI Design
   - PID Controller
@@ -14,8 +14,8 @@ skills:
   - Embedded C
   - Python
 
-main-image: /Surflex Poster.png
+main-image: /Noa MM '22.jpg
 ---
 
-# This is another demo
 
+{% include image-gallery.html images="Surflex Poster.png" height="400" %} 
