@@ -14,7 +14,7 @@ skills:
   - Embedded C
   - Python
 
-main-image: /Surflex Poster.pdf
+main-image: /Surflex Poster.png
 ---
 
 # This is another demo
