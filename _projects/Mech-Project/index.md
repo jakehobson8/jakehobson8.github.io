@@ -24,7 +24,7 @@ Use this for the header of each section
 Use this to have subsection if needed -->
 
 
-## Embedding images 
+<!-- ## Embedding images 
 ### External images
 {% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
 <span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
@@ -109,6 +109,6 @@ console.log(x);
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
 
-make sure to leave aline betwen the table and the header
+make sure to leave aline betwen the table and the header -->
 
 
