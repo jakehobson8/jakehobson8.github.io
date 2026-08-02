@@ -26,14 +26,14 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url:  ./assets/resume/Resume.pdf
+resume-url:  /assets/resume/Resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: jake-hobson-b3b627370    # https://www.linkedin.com/in/{your url slug} 
-  github:    # https://github.com/{your url slug} 
+  github:  jakehobson8  # https://github.com/{your url slug} 
   stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 

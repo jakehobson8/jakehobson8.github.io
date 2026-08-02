@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Surflex
-description: Surflex is a surfboard testing system that quantifies the flexability in both longitudinal and torsional directions. This helps shapers fine tune their boards, and provides the consumers with more information when picking out a new board. 
+description: Surflex is a surfboard testing system that quantifies the flexability in both longitudinal and torsional directions. This could help shapers fine tune their boards, and provide the consumers with more information when picking out a new board. 
 skills: 
   - GUI Design
   - PID Controller
